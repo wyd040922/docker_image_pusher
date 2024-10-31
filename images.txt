@@ -1,1 +1,1 @@
-zabbix/zabbix-server-mysql
+zabbix/zabbix-agent
