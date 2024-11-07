@@ -1,1 +1,1 @@
-abbix-web-nginx-mysql:latest
+zabbix-web-nginx-mysql:latest
